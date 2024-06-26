@@ -27,7 +27,7 @@ public abstract class Arriendo {
     
     public void establecerCuotaBase(double x){
         cuotaBase = x;
-    }
+    }//no sabemos q es pero estoy seguro q es un objeto de la subclase arriendo
     
     public abstract void establecerArriendoMensual();
     

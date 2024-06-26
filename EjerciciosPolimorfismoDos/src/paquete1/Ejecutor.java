@@ -41,7 +41,9 @@ public class Ejecutor {
         arriendoSesiones.establecerValorAmplificacion(20); // en $
         
         listaArriendos.add(arriendoComida);
+        
         listaArriendos.add(arriendoComercial);
+        listaArriendos.add(arriendoComida2);
         listaArriendos.add(arriendoSesiones);
         
         for (int i = 0; i < listaArriendos.size(); i++) {
